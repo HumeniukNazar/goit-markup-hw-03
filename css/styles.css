@@ -31,6 +31,12 @@ ul {
   list-style: none;
 }
 
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
 .main-screen {
   max-width: 1440px;
   width: 100%;
@@ -67,6 +73,7 @@ header {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  margin-right: 76px;
 }
 .header-logo-studio {
   color: #2e2f42;
@@ -83,6 +90,7 @@ header {
 .header-navigation {
   display: flex;
   gap: 76px;
+  align-items: center;
 }
 .header-menu-link {
   color: #2e2f42;
@@ -104,6 +112,7 @@ header {
   font-style: normal;
   display: flex;
   gap: 40px;
+  padding: 24px 0;
 }
 .header-contacts-item {
   color: #434455;
