@@ -75,6 +75,9 @@ header {
   letter-spacing: 0.02em;
   display: flex;
   gap: 40px;
+}
+
+.header-navigation-menu-item {
   padding: 24px 0;
 }
 
