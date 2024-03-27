@@ -77,10 +77,6 @@ header {
   gap: 40px;
 }
 
-.header-navigation-menu-item {
-  padding: 24px 0;
-}
-
 .header-navigation {
   display: flex;
   gap: 76px;
@@ -89,6 +85,7 @@ header {
 }
 .header-menu-link {
   color: #2e2f42;
+  padding: 24px 0;
 }
 .header-menu-link:hover,
 .header-menu-link:active,
